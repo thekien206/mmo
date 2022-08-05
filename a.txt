@@ -1,1 +1,2 @@
 oke 1 - sua tiep 1
+dev2 sua
